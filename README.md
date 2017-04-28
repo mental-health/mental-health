@@ -12,4 +12,4 @@ Fork/create a branch, add your ideas below, and make a PR. Automatic merging is 
 2.
 
 # Index of Ideas
-1. Hi 
+1. 
