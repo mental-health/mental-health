@@ -8,8 +8,7 @@ Mental health in America (and across the world in general) has been rapidly dete
 Fork/create a branch, add your ideas below, and make a PR. Automatic merging is enabled. Once we have enough ideas, we can start building something. Alternatively, if you're working on something, feel free to include a link to your work below. 
 
 # TODO
-1. Setup a Gitter
-2.
+1.
 
 # Index of Ideas
 1. 
