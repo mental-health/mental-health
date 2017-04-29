@@ -8,7 +8,7 @@ Mental health in America (and across the world in general) has been rapidly dete
 
 
 # Contributing 
-Fork/create a branch, add your ideas below, and make a PR. Automatic merging is enabled. Once we have enough ideas, we can start building something. Alternatively, if you're working on something, feel free to include a link to your work below. 
+Fork/create a branch, add your ideas below, and make a PR. It will be approved, but if you want write access, please message the Gitter chat and you'll be given access. Once we have enough ideas, we can start building something. Alternatively, if you're working on something, feel free to include a link to your work below. 
 
 # TODO
 1. Define the problem and provide more context. This readme is too vague. 
